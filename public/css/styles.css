@@ -1,0 +1,20 @@
+html, body {
+    padding: 20px;
+    background-color: #000;
+    color: #fff;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    border: 1px solid #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.5);
+}
+
+h1 {
+    font-size: 20px;
+    color: #fff;
+}
