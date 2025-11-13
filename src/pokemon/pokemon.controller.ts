@@ -3,7 +3,7 @@ import { PokemonService } from './pokemon.service';
 import { CreatePokemonDto } from './dto/create-pokemon.dto';
 import { UpdatePokemonDto } from './dto/update-pokemon.dto';
 
-@Controller('api/v2/pokemon')
+@Controller('pokemon')
 export class PokemonController {
   constructor(private readonly pokemonService: PokemonService) {}
 
